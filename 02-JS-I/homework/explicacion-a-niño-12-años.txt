@@ -1,0 +1,12 @@
+Variables -> son todas las cosas que pueden tomar un valor tanto de texto, numérico, si es una afirmación(true) o negación(false). por ejemplo un nombre, la edad, si le gusta o no el deporte, etc.
+
+Strings -> las strings son porciones de texto. puede ser de una sola letra, una sola palabra, o un párrafo entero.
+por su naturaleza de ser de tipo texto, no responden a operaciones aritméticas, como por ejemplo sumarlas, multiplicarlas, elevarlas a una potencia o por lo menos no de forma matemática como se conoce habitualmente
+
+Funciones -> las funciones son procesos que involucran una cierta cantidad de acciones o condiciones. como por ejemplo ir a comprar pan. para ir a comprar pan tengo que ver si el local esta abierto, saber cuanto sale el kg, si tengo plata para pagarlo. en caso de una funcion matematica por ejemplo una suma (la funcion) tengo que tener al menos dos valores distintos para sumarlos entre si, y esos valores tienen que ser numericos 
+
+Declaraciones if -> las declaraciones if son condiciones para que yo pueda o no realizar alguna accion. por ejemplo en el caso de ir a comprar pan, no puedo hacerlo SI(if) no tengo plata en la billetera o SI (if) el local esta cerrado
+
+Valores booleanos -> los valores booleanos son los que dan respuesta a una pregunta o una condicion que sea o si o no, verdadero o falso, blanco o negro. por ejemplo para saber si tengo un almacén y alguien quiere venir a comprarme una cerveza, debo saber si esa persona es mayor de edad o no. si es Verdadero que es mayor de edad puedo venderle cerveza, si es falso No.
+
+

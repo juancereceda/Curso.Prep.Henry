@@ -1,0 +1,22 @@
+-> el for ("para" en español) nos servirà para realizar ciertas operaciones
+en loop para una condicion determinada. por ejemplo, me puede servir si quiero
+que un programa se ejecute PARA ciertos valores de una variable.
+
+-> && reune dos condiciones y para que un proceso se ejecute se tienen que cumplir las 2.
+ej elAutoEsRojo && patenteTerminaEn45 ---> si se cumplen ambas se ejecuta el codigo. sino nos
+
+-> || reune 2 condiciones y ejecuta un codigo si aunque sea una de las 2 condiciones se cumple.
+ej elAutoEsRojo || elAutoEsVerte ---> si el auto es rojo o verte se ejecuta el codigo. si es gris no.
+no puede ser verde y rojo a la vez. aunque hay casos en que se cumplen ambas condiciones pero 1 sola es suficente
+
+-> ! es una negacion (not). por ejemplo, si quiero dividir un numero por otro, necesito que el divisor sea distinto de 0 
+porque si es igual a 0, matematicamente es un error.
+
+    function dividir(a,b) {
+        if (b !== 0) {
+            division = a/b;
+            return division;
+        } else {
+            return "math error";   
+        }
+    }
