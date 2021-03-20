@@ -1,0 +1,4 @@
+-> las arrays o arreglos son una especie de carpeta que nos permite almacenar variables para despues llamarlas.
+en lugar de definir por ejemplo 5 variables por separado, se define un array y se llama por elementos o todo el conjunto en si .
+si bien en el caso de almacenar 5 variables, tendriamos efectivamente, 5 variables; se empieza a contar su ubicacion
+desde el numero 0. (0,1,2,3,4). tambien como caracteristica, se las separa con , y se las define dentro de brackets ([])
